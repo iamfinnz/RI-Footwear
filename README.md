@@ -3,4 +3,4 @@
 Created by : <a href="https://www.instagram.com/ilhamarf7/">iamfinnz</a>
 
 # Note
-I developed this project using the codeigniter framework in visual studio code
+I developed this project using codeigniter framework in visual studio code
